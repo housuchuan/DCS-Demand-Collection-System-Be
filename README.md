@@ -1,2 +1,2 @@
-# DCS-Demand-Collection-System-Be
+# DCS-Demand-Collection-System
 collect products requirements
